@@ -1,0 +1,53 @@
+[
+  {
+    "id": "biblus",
+    "name": "Biblus (ACCA)",
+    "url": "https://biblus.acca.it/feed/",
+    "enabled": true
+  },
+  {
+    "id": "edilportale",
+    "name": "Edilportale",
+    "url": "https://www.edilportale.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "lavoripubblici",
+    "name": "Lavori Pubblici",
+    "url": "https://www.lavoripubblici.it/articoli-tecnici/feed.rss",
+    "enabled": true
+  },
+  {
+    "id": "ediltecnico",
+    "name": "Edil Tecnico",
+    "url": "https://ediltecnico.it/feed/",
+    "enabled": true
+  },
+  {
+    "id": "buildnews",
+    "name": "Build News (ex Casa&Clima)",
+    "url": "https://www.buildnews.it/feed/",
+    "enabled": true
+  },
+  {
+    "id": "sole24ore-casa",
+    "name": "Il Sole 24 Ore",
+    "url": "https://www.ilsole24ore.com/rss/casa.xml",
+    "enabled": true,
+    "strict_category_filter": true
+  },
+  {
+    "id": "sole24ore-norme-tributi",
+    "name": "Il Sole 24 Ore",
+    "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml",
+    "enabled": true,
+    "strict_category_filter": true
+  },
+  {
+    "id": "sole24ore-sostenibilita",
+    "name": "Il Sole 24 Ore",
+    "url": "https://www.ilsole24ore.com/rss/sostenibilita--energia-e-ambiente.xml",
+    "enabled": true,
+    "strict_category_filter": true
+  }
+]

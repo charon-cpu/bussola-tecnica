@@ -1,0 +1,13 @@
+{
+  "name": "bussola-tecnica",
+  "version": "1.0.0",
+  "description": "Aggregatore di notizie di settore per geometri: edilizia, efficientamento energetico, fiscalita edilizia, normativa tecnica",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.7.0"
+  }
+}

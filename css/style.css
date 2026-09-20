@@ -1,0 +1,317 @@
+:root {
+  --bg: #f7f5f1;
+  --surface: #ffffff;
+  --text-primary: #201d1a;
+  --text-secondary: #5c574f;
+  --text-muted: #8b857a;
+  --border: #e5e1d8;
+  --accent: #b5502f;
+  --accent-ink: #7a3620;
+  --accent-bg: #fbe9e1;
+
+  --cat-edilizia-bg: #fbe9e1;
+  --cat-edilizia-ink: #8a3d21;
+  --cat-energetica-bg: #eaf3de;
+  --cat-energetica-ink: #3b6d11;
+  --cat-fiscale-bg: #eeedfe;
+  --cat-fiscale-ink: #3c3489;
+  --cat-normativa-bg: #e6f1fb;
+  --cat-normativa-ink: #0c447c;
+  --cat-altro-bg: #f1efe8;
+  --cat-altro-ink: #5f5e5a;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171614;
+    --surface: #211f1c;
+    --text-primary: #f3f1ec;
+    --text-secondary: #b8b2a6;
+    --text-muted: #837d70;
+    --border: #34312b;
+    --accent: #e28a63;
+    --accent-ink: #f4b79b;
+    --accent-bg: #3a2419;
+
+    --cat-edilizia-bg: #3a2419;
+    --cat-edilizia-ink: #f0997b;
+    --cat-energetica-bg: #22320f;
+    --cat-energetica-ink: #97c459;
+    --cat-fiscale-bg: #26215c;
+    --cat-fiscale-ink: #afa9ec;
+    --cat-normativa-bg: #0c2f4d;
+    --cat-normativa-ink: #85b7eb;
+    --cat-altro-bg: #2c2c2a;
+    --cat-altro-ink: #b4b2a9;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+a { color: inherit; }
+
+/* Header */
+.site-header {
+  padding: 40px 0 28px;
+  border-bottom: 1px solid var(--border);
+}
+
+.header-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.logo-mark {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+
+.logo-text {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 30px;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.tagline {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 15px;
+}
+
+/* Filter bar */
+.filter-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 0;
+}
+
+.filter-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.filter-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tab {
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 16px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.tab:hover {
+  border-color: var(--accent);
+  color: var(--text-primary);
+}
+
+.tab.is-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.search-box input {
+  font-family: var(--font-body);
+  font-size: 14px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-primary);
+  width: 240px;
+  max-width: 100%;
+}
+
+.search-box input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* Main content */
+.main-content {
+  padding: 28px 0 60px;
+}
+
+.results-meta {
+  margin: 0 0 20px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.news-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  text-decoration: none;
+  transition: border-color 0.15s, transform 0.15s;
+}
+
+.news-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.card-source {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.card-date {
+  font-size: 12px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.card-title {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.32;
+  margin: 0 0 10px;
+}
+
+.card-summary {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin: 0 0 16px;
+  flex-grow: 1;
+}
+
+.card-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: auto;
+}
+
+.card-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 9px;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.badge-edilizia { background: var(--cat-edilizia-bg); color: var(--cat-edilizia-ink); }
+.badge-energetica { background: var(--cat-energetica-bg); color: var(--cat-energetica-ink); }
+.badge-fiscale { background: var(--cat-fiscale-bg); color: var(--cat-fiscale-ink); }
+.badge-normativa { background: var(--cat-normativa-bg); color: var(--cat-normativa-ink); }
+.badge-altro { background: var(--cat-altro-bg); color: var(--cat-altro-ink); }
+
+.card-link {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.empty-state {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 60px 0;
+  font-size: 15px;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 28px 0 40px;
+}
+
+.footer-inner p {
+  margin: 0 0 8px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.sources-list {
+  font-weight: 500;
+}
+
+.update-time {
+  font-style: italic;
+}
+
+@media (max-width: 640px) {
+  .site-header { padding: 28px 0 20px; }
+  .logo-text { font-size: 24px; }
+  .filter-inner { flex-direction: column; align-items: stretch; }
+  .search-box input { width: 100%; }
+}

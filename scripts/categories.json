@@ -1,0 +1,27 @@
+{
+  "edilizia": [
+    "edilizia", "cantiere", "cantieri", "appalto", "appalti", "lavori pubblici",
+    "opere", "ristrutturazione", "urbanistica", "permesso di costruire",
+    "cila", "scia", "edificio", "costruzion", "manutenzione straordinaria",
+    "sicurezza cantiere", "capitolato", "progettazione", "condono", "sanatoria",
+    "aggiudicazione", "gara d'appalto"
+  ],
+  "energetica": [
+    "ape", "attestato di prestazione energetica", "efficientamento energetico",
+    "efficienza energetica", "ecobonus", "conto termico", "fotovoltaico",
+    "pompe di calore", "pompa di calore", "isolamento termico", "classe energetica",
+    "cappotto termico", "rinnovabili", "impianto termico", "riqualificazione energetica",
+    "comunità energetiche", "recupero energetico"
+  ],
+  "fiscale": [
+    "superbonus", "detrazione", "detrazioni", "bonus casa", "bonus ristrutturazioni",
+    "iva", "imposta", "imposte", "agevolazione fiscale", "agevolazioni fiscali",
+    "sconto in fattura", "cessione del credito", "imu", "tasse", "fiscal",
+    "sismabonus", "bonus facciate", "bonus barriere"
+  ],
+  "normativa": [
+    "decreto", "dm", "circolare", "normativa tecnica", "ntc", "uni",
+    "legge", "dpr", "gazzetta ufficiale", "catasto", "catastal", "regolamento",
+    "codice appalti", "testo unico", "certificazione"
+  ]
+}

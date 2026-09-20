@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bussola Tecnica — Rassegna edilizia, energia, fisco e normativa</title>
+<meta name="description" content="Rassegna stampa quotidiana per tecnici dell'edilizia: notizie di edilizia, efficientamento energetico, fiscalità e normativa tecnica dalle testate di settore più autorevoli.">
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a href="/" class="logo">
+      <span class="logo-mark" aria-hidden="true"></span>
+      <span class="logo-text">Bussola Tecnica</span>
+    </a>
+    <p class="tagline">Rassegna per il tecnico dell'edilizia — edilizia, energia, fisco, normativa</p>
+  </div>
+</header>
+
+<nav class="filter-bar" aria-label="Filtra per categoria">
+  <div class="wrap filter-inner">
+    <div class="filter-tabs" role="tablist" id="categoryTabs">
+      <button class="tab is-active" data-category="tutte" role="tab" aria-selected="true">Tutte</button>
+      <button class="tab" data-category="edilizia" role="tab" aria-selected="false">Edilizia</button>
+      <button class="tab" data-category="energetica" role="tab" aria-selected="false">Energetica</button>
+      <button class="tab" data-category="fiscale" role="tab" aria-selected="false">Fiscale</button>
+      <button class="tab" data-category="normativa" role="tab" aria-selected="false">Normativa</button>
+      <button class="tab" data-category="altro" role="tab" aria-selected="false">Altro</button>
+    </div>
+    <div class="search-box">
+      <input type="search" id="searchInput" placeholder="Cerca per parola chiave…" aria-label="Cerca nelle notizie">
+    </div>
+  </div>
+</nav>
+
+<main class="wrap main-content">
+  <p class="results-meta" id="resultsMeta" aria-live="polite"></p>
+  <div class="news-grid" id="newsGrid"></div>
+  <p class="empty-state" id="emptyState" hidden>Nessuna notizia trovata per questo filtro.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>Bussola Tecnica raccoglie titolo, data e un breve estratto dalle fonti indicate, con link all'articolo originale. Nessun contenuto integrale viene riprodotto.</p>
+    <p class="sources-list" id="sourcesList"></p>
+    <p class="update-time" id="updateTime"></p>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,5 +1,84 @@
 [
   {
+    "id": "977cf0b83d2c542ed6edd8248151c8a5e0f56678",
+    "title": "Change management nei cantieri: processo, cause e best practice",
+    "link": "https://biblus.acca.it/change-management-nelle-costruzioni-cose-e-come-attuarlo/",
+    "source": "Biblus (ACCA)",
+    "source_slug": "biblus",
+    "published_at": "2026-09-21T15:31:19.000Z",
+    "fetched_at": "2026-09-21T18:10:18.326Z",
+    "summary": "Il change management nelle costruzioni è un processo utile a gestire i cambiamenti improvvisi dell’iter costruttivo. Ecco perché è importante e come attuarlo La necessità di introdurre modifiche improvvise in un progetto di costruzione può creare problemi in termini di tempi e costi. Per ovviare a…",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "e4660c5cc49dba5c4de9e26bdf60f7857e8e224e",
+    "title": "Condono edilizio Lazio: i limiti dimensionali sono alternativi o cumulativi?",
+    "link": "https://biblus.acca.it/notizie/condono-edilizio-lazio-i-limiti-dimensionali-sono-alternativi-o-cumulativi/",
+    "source": "Biblus (ACCA)",
+    "source_slug": "biblus",
+    "published_at": "2026-09-21T14:35:27.000Z",
+    "fetched_at": "2026-09-21T18:10:18.326Z",
+    "summary": "Ai sensi dell’art. 2, comma 1, della L.R. 12/2004, il superamento dei 200 m³ non preclude, di per sé, la sanatoria se l’ampliamento non supera il 20% della volumetria della costruzione originaria Il Consiglio di Stato, sent. 6559/2026, chiarisce che nel condono edilizio disciplinato dall’art. 2,…",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "2615885d020bf3b54f520102f7de1be7964213db",
+    "title": "Da campo da calcetto a campi da padel: è nuova costruzione?",
+    "link": "https://biblus.acca.it/notizie/da-campo-da-calcetto-a-campi-da-padel-e-nuova-costruzione/",
+    "source": "Biblus (ACCA)",
+    "source_slug": "biblus",
+    "published_at": "2026-09-21T14:31:21.000Z",
+    "fetched_at": "2026-09-21T18:10:18.326Z",
+    "summary": "Per la realizzazione di campi da padel serve il permesso di costruire anche se sostituiscono un impianto sportivo già esistente quando comporta una significativa trasformazione fisica e funzionale dell’area Il TAR Lazio, con la sentenza n. 14330/2026, esamina un intervento per la realizzazione di…",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "c630742739f85c92f2c4fd73bcaf85fc794edd28",
+    "title": "Giunti di dilatazione in edilizia: tipologie, dimensionamento e interferenze con gli impianti",
+    "link": "https://biblus.acca.it/giunti-di-dilatazione-in-edilizia-tipologie-dimensionamento-e-interferenze-con-gli-impianti/",
+    "source": "Biblus (ACCA)",
+    "source_slug": "biblus",
+    "published_at": "2026-09-21T14:07:40.000Z",
+    "fetched_at": "2026-09-21T18:10:18.326Z",
+    "summary": "Scopri cosa sono i giunti di dilatazione in edilizia, come si dimensionano, le principali tipologie e come gestire gli impianti con il BIM Una struttura edilizia è soggetta a movimenti che possono derivare da variazioni di temperatura, ritiro dei materiali, deformazioni sotto carico, cedimenti…",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "8167670baa0915c7049fe233cb66867078504af9",
+    "title": "Decreto Salva Casa: guida definitiva e raccolta giurisprudenziale",
+    "link": "https://biblus.acca.it/piano-salva-casa-condono-edilizio-2024-per-piccole-irregolarita/",
+    "source": "Biblus (ACCA)",
+    "source_slug": "biblus",
+    "published_at": "2026-09-21T12:25:22.000Z",
+    "fetched_at": "2026-09-21T18:10:18.326Z",
+    "summary": "Il Salva Casa non è un condono edilizio, ma un’ampia sanatoria per molte tipologie di interventi edilizi eseguiti senza titolo. Guida rapida, recepimento regionale, FAQ e sentenze Il D.L. 69/2024, convertito con legge 105/2024 e più conosciuto come “Decreto Salva Casa 2024“, contiene importanti…",
+    "categories": [
+      "edilizia",
+      "normativa"
+    ]
+  },
+  {
+    "id": "8cfec2131e55031f57ccb31c5efc4d8df1dc88d9",
+    "title": "Workflow BIM: cos’è e come migliora i progetti di costruzione",
+    "link": "https://biblus.acca.it/bim-workflow-cosa-e-perche-fa-la-differenza/",
+    "source": "Biblus (ACCA)",
+    "source_slug": "biblus",
+    "published_at": "2026-09-21T12:16:04.000Z",
+    "fetched_at": "2026-09-21T11:59:13.841Z",
+    "summary": "Il Building information modeling (BIM) è un workflow che supporta la creazione di dati intelligenti utilizzabili durante l’intero ciclo di vita di un progetto Il BIM non è solo un software né semplicemente un modello 3D: è un database che contiene oltre agli ele­­menti del modello anche una grande…",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
     "id": "cb8d8ea53ec633b82052304bb8cbc155197de621",
     "title": "Particolari costruttivi: esempi e indicazioni per crearli",
     "link": "https://biblus.acca.it/particolari-costruttivi-esempi-e-indicazioni-per-crearli/",
@@ -10,19 +89,6 @@
     "summary": "I particolari costruttivi sono disegni che forniscono una descrizione completa e dettagliata di una parte specifica del progetto. Sfoglia gli esempi e scopri come crearli I particolari costruttivi sono fondamentali nella progettazione e nell’esecuzione di qualsiasi opera del settore AEC…",
     "categories": [
       "edilizia"
-    ]
-  },
-  {
-    "id": "8cfec2131e55031f57ccb31c5efc4d8df1dc88d9",
-    "title": "Workflow BIM: cos’è e come migliora i progetti di costruzione",
-    "link": "https://biblus.acca.it/bim-workflow-cosa-e-perche-fa-la-differenza/",
-    "source": "Biblus (ACCA)",
-    "source_slug": "biblus",
-    "published_at": "2026-09-21T09:10:13.000Z",
-    "fetched_at": "2026-09-21T11:59:13.841Z",
-    "summary": "Il Building information modeling (BIM) è un workflow che supporta la creazione di dati intelligenti utilizzabili durante l’intero ciclo di vita di un progetto Il BIM non è solo un software né semplicemente un modello 3D: è un database che contiene oltre agli ele­­menti del modello anche una grande…",
-    "categories": [
-      "altro"
     ]
   },
   {
@@ -113,6 +179,19 @@
     "published_at": "2026-09-21T06:00:00.000Z",
     "fetched_at": "2026-09-21T11:59:13.841Z",
     "summary": "21/09/2026 - Il Salva Casa consente di applicare le deroghe alle dimensioni minime degli alloggi anche quando un locale non residenziale viene trasformato in abitazione, purch&eacute; siano rispettati i requisiti di adattabilit&agrave; e le condizioni igienico-sanitarie previste dall&rsquo;articolo…",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
+    "id": "17a8b79a067f42b73005faaa2705470187adbdf6",
+    "title": "Le infrastrutture realizzate col PNRR favoriscono la rigenerazione e valorizzano i territori",
+    "link": "https://www.edilportale.com/news/2026/09/mercati/infrastrutture-pnrr-una-leva-per-la-rigenerazione-urbana_111940_13.html",
+    "source": "Edilportale",
+    "source_slug": "edilportale",
+    "published_at": "2026-09-21T06:00:00.000Z",
+    "fetched_at": "2026-09-21T18:10:18.326Z",
+    "summary": "21/09/2026 - Gli investimenti infrastrutturali finanziati dal PNRR stanno creando le condizioni per una nuova fase della rigenerazione urbana. Ferrovie, nodi metropolitani, sistemi per la mobilit&agrave; sostenibile e reti energetiche e digitali migliorano l&rsquo;accessibilit&agrave; dei…",
     "categories": [
       "altro"
     ]
@@ -699,7 +778,7 @@
   },
   {
     "id": "0eece9af40456c1a864671c08baafcfd3a1a0ce1",
-    "title": "Il nuovo reato in materia di IA in vigore dal 30 settembre 2026",
+    "title": "Il nuovo reato AI in vigore dal 30 settembre 2026",
     "link": "https://biblus.acca.it/notizie/il-nuovo-reato-in-materia-di-ia-in-vigore-dal-30-settembre-2026/",
     "source": "Biblus (ACCA)",
     "source_slug": "biblus",

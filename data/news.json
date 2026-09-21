@@ -1,5 +1,58 @@
 [
   {
+    "id": "b29f93dbf5e2d98a6812ce96e2abf51fa6a96643",
+    "title": "Credito alle PMI, l’allarme sui cantieri PNRR: SAL e liquidità sotto pressione",
+    "link": "http://2020.lavoripubblici.it/news/credito-pmi-pnrr-sal-cantieri-38768",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-21T23:30:00.000Z",
+    "fetched_at": "2026-09-21T23:49:05.359Z",
+    "summary": "I finanziamenti continuano a ridursi per le piccole imprese mentre i costi dei lavori pubblici vengono anticipati dalle aziende: Federcepicostruzioni chiede tempi certi per i SAL, strumenti ponte e nuovi criteri di accesso al credito",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "1973ec0d5625c28b7c5fa09cf78ec0f8af8087e9",
+    "title": "Mensa di cantiere, indennità sostitutiva o buoni pasto: cosa conviene davvero a un'impresa edile",
+    "link": "http://2020.lavoripubblici.it/news/buoni-pasto-edilizia-indennita-sostitutiva-mensa-38764",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-21T23:00:00.000Z",
+    "fetched_at": "2026-09-21T23:49:05.359Z",
+    "summary": "Dalla soglia esente di 10 euro per i buoni pasto elettronici ai 5,29 euro dell’indennità sostitutiva: il confronto fiscale e contributivo per le imprese edili, tra costi aziendali, cantieri, reti convenzionate e vincoli della contrattazione collettiva",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "590a36501cb34b02de4a257ebcfb0eec0604ba45",
+    "title": "Concorso RIPAM, geologi esclusi dai profili tecnici: scatta la protesta",
+    "link": "http://2020.lavoripubblici.it/news/concorso-ripam-tecnici-geologi-esclusi-38765",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-21T22:30:00.000Z",
+    "fetched_at": "2026-09-21T23:49:05.359Z",
+    "summary": "L’Ordine dei Geologi della Regione Molise interviene sull’esclusione delle lauree geologiche dal concorso per 882 specialisti tecnici destinati agli enti territoriali del Mezzogiorno. Il Presidente Domenico Angelone richiama il ruolo della professione nella prevenzione e gestione dei rischi naturali",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
+    "id": "ae37d8589d03f4529cc1eed4e13b57ee7b3a3d14",
+    "title": "Parapetti anticaduta nei cantieri: requisiti, classi e criteri di scelta nel nuovo Quaderno INAIL",
+    "link": "http://2020.lavoripubblici.it/news/parapetti-anticaduta-requisiti-classi-norme-uni-38762",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-21T22:00:00.000Z",
+    "fetched_at": "2026-09-21T23:49:05.359Z",
+    "summary": "Il nuovo Quaderno tecnico INAIL approfondisce parapetti provvisori e permanenti alla luce della UNI EN 13374:2025 e della UNI 11996:2025, mettendo in relazione classificazione, requisiti, criteri di scelta, montaggio e manutenzione con le prescrizioni del D.Lgs. n. 81/2008",
+    "categories": [
+      "edilizia",
+      "normativa"
+    ]
+  },
+  {
     "id": "977cf0b83d2c542ed6edd8248151c8a5e0f56678",
     "title": "Change management nei cantieri: processo, cause e best practice",
     "link": "https://biblus.acca.it/change-management-nelle-costruzioni-cose-e-come-attuarlo/",

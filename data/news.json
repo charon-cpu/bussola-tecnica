@@ -1,5 +1,72 @@
 [
   {
+    "id": "dbf3a1865ddcc9769736baff01d342d9533a90e1",
+    "title": "CILA, cosa rischiano il tecnico che assevera e il direttore dei lavori",
+    "link": "http://2020.lavoripubblici.it/news/responsabilita-tecnico-cila-asseverazione-direttore-lavori-38766",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T03:00:00.000Z",
+    "fetched_at": "2026-09-22T03:19:01.940Z",
+    "summary": "La CILA semplifica la pratica per il committente e per il Comune, non per chi la firma. Senza i poteri di controllo previsti per la SCIA e senza un atto finale di legge, asseverazione, direzione dei lavori e chiusura del cantiere concentrano sul professionista responsabilità penali, civili e…",
+    "categories": [
+      "edilizia",
+      "normativa"
+    ]
+  },
+  {
+    "id": "185b94d620a430436e3c174b8cedf56787c3c842",
+    "title": "Cambio d’uso in abitazione: quando il Salva Casa consente il monolocale sotto i 28 mq",
+    "link": "http://2020.lavoripubblici.it/news/salva-casa-cambio-uso-monolocale-28-mq-38763",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T02:00:00.000Z",
+    "fetched_at": "2026-09-22T03:19:01.940Z",
+    "summary": "Il TAR Liguria chiarisce quando le deroghe dell’art. 24 del d.P.R. n. 380/2001 possono essere utilizzate per trasformare un locale commerciale in abitazione e come devono essere coordinati superficie minima, requisiti igienico-sanitari, stato legittimo e carico insediativo nelle aree a rischio…",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
+    "id": "5ef6c2decd78c9015e9ee8cde7e3565d8a355607",
+    "title": "Nuovo piano urbanistico e permesso di costruire: niente decadenza se il Comune ha negato a torto l’esistenza del permesso",
+    "link": "http://2020.lavoripubblici.it/news/decadenza-permesso-costruire-nuovo-piano-urbanistico-buona-fede-38759",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T01:00:00.000Z",
+    "fetched_at": "2026-09-22T03:19:01.940Z",
+    "summary": "Il Consiglio di Stato estende il principio di buona fede anche alla decadenza del permesso di costruire per contrastanti previsioni urbanistiche, prevista dall’art. 15, comma 4, del Testo Unico Edilizia, quando il ritardo nell’avvio dei lavori nasce dall’incertezza sul silenzio assenso creata…",
+    "categories": [
+      "edilizia",
+      "normativa"
+    ]
+  },
+  {
+    "id": "c30dd9c8ce05637568f8e81c153eb55fb07784ee",
+    "title": "RTI nei servizi e forniture: quando requisiti e quote di esecuzione devono corrispondere",
+    "link": "http://2020.lavoripubblici.it/news/rti-servizi-forniture-requisiti-quote-esecuzione-38761",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T00:30:00.000Z",
+    "fetched_at": "2026-09-22T03:19:01.940Z",
+    "summary": "Il Consiglio di Stato chiarisce l’art. 68 del D.Lgs. n. 36/2023: nei servizi e nelle forniture non opera un automatismo tra qualificazione ed esecuzione, salvo i vincoli previsti dalla lex specialis e i requisiti richiesti al singolo esecutore",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
+    "id": "3624388deddfa1c275369bdab6dc369451b39789",
+    "title": "Regolarità fiscale nelle gare: quando i debiti in bilancio non bastano per l’esclusione",
+    "link": "http://2020.lavoripubblici.it/news/regolarita-fiscale-appalti-durc-debiti-bilancio-38767",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T00:00:00.000Z",
+    "fetched_at": "2026-09-22T03:19:01.940Z",
+    "summary": "Con la sentenza n. 6899/2026, il Consiglio di Stato ha affrontato il valore di DURC e certificazioni fiscali, il peso dei debiti in bilancio e del Modello 770, soffermandosi anche sull’esperienza dei consorzi stabili e sui margini della verifica di anomalia",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
     "id": "b29f93dbf5e2d98a6812ce96e2abf51fa6a96643",
     "title": "Credito alle PMI, l’allarme sui cantieri PNRR: SAL e liquidità sotto pressione",
     "link": "http://2020.lavoripubblici.it/news/credito-pmi-pnrr-sal-cantieri-38768",

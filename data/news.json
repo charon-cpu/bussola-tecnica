@@ -1,5 +1,57 @@
 [
   {
+    "id": "a9969bb11f6f53d09f189fc392c9a0b98c9f625c",
+    "title": "Sicurezza sul lavoro: niente rateizzazione per il pagamento che estingue la contravvenzione",
+    "link": "http://2020.lavoripubblici.it/news/dlgs-758-1994-rateizzazione-pagamento-38774",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T23:00:00.000Z",
+    "fetched_at": "2026-09-22T23:29:30.945Z",
+    "summary": "L’INL chiarisce che la somma dovuta dopo l’adempimento della prescrizione impartita dall’organo di vigilanza deve essere versata integralmente entro 30 giorni: esclusa l’applicazione della rateizzazione prevista dalla Legge n. 689/1981.",
+    "categories": [
+      "normativa"
+    ]
+  },
+  {
+    "id": "cd7b85ce7853b35a08515d3fe1ab090a2183ff1d",
+    "title": "Anas cerca Specialist Riserve: assunzione a tempo indeterminato per ingegneri",
+    "link": "http://2020.lavoripubblici.it/news/anas-specialist-riserve-selezione-38771",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T22:30:00.000Z",
+    "fetched_at": "2026-09-22T23:29:30.945Z",
+    "summary": "La selezione riguarda la sede di Roma ed è rivolta a professionisti dell’area civile-ambientale con esperienza nella direzione lavori e nella gestione delle riserve negli appalti. Ecco come ed entro quando candidarsi",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "e7db0cd395fa89350e2ae950ff74598658a4e579",
+    "title": "SAIE Bologna 2026: alla Scuola del Calcestruzzo prove, controlli e formazione live",
+    "link": "http://2020.lavoripubblici.it/news/saie-bologna-2026-scuola-calcestruzzo-38776",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T22:00:00.000Z",
+    "fetched_at": "2026-09-22T23:29:30.945Z",
+    "summary": "Controlli di accettazione, prove sul calcestruzzo indurito, tecniche distruttive e non distruttive, monitoraggio delle strutture, messa in opera e calcestruzzi autocompattanti al centro del programma ospitato nell’Area SAIE InCalcestruzzo",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
+    "id": "58608d82547b28bad3731387c379d4d3d37ff621",
+    "title": "Ordine di demolizione e fiscalizzazione: quando la sanzione pecuniaria può sostituire il ripristino",
+    "link": "http://2020.lavoripubblici.it/news/fiscalizzazione-abuso-edilizio-demolizione-38773",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-22T22:00:00.000Z",
+    "fetched_at": "2026-09-22T23:29:30.945Z",
+    "summary": "Il CGARS torna sul rapporto tra ordine di demolizione e fiscalizzazione dell’abuso, chiarendo quando va verificata l’impossibilità tecnica del ripristino, come si coordinano gli artt. 31 e 34 del d.P.R. n. 380/2001 e quali effetti produce l’omessa indicazione dell’area destinata all’acquisizione…",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
     "id": "32f826e2d0b678fd728563181e6b3df8549b5f8c",
     "title": "Appalto di lavori o di servizi? Conta la modifica prevalente della realtà fisica",
     "link": "https://biblus.acca.it/notizie/appalto-di-lavori-o-di-servizi-per-anac-conta-la-modifica-prevalente-della-realta-fisica/",

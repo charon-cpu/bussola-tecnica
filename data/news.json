@@ -1,5 +1,98 @@
 [
   {
+    "id": "c4319972bd08952199582127ac5a2ae02e984adb",
+    "title": "Demolizione e ricostruzione: il contrasto nel Consiglio di Stato sul confine tra ristrutturazione e nuova costruzione",
+    "link": "http://2020.lavoripubblici.it/news/demolizione-ricostruzione-ristrutturazione-nuova-costruzione-consiglio-stato-38792",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-25T03:00:00.000Z",
+    "fetched_at": "2026-09-25T03:25:16.811Z",
+    "summary": "Per la Seconda Sezione la demo-ricostruzione resta ristrutturazione solo se riguarda un unico edificio, avviene con un solo titolo e non trasforma il territorio oltre il volume recuperato, mentre per la Quarta basta la preesistenza del fabbricato, e dalla scelta tra le due letture dipendono titolo,…",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "a9e93f5db73e92282fec05c327f013f0e877e482",
+    "title": "Superbonus, visto e asseverazione su piani diversi: per la Cassazione conta l'effettiva realizzazione dei lavori",
+    "link": "http://2020.lavoripubblici.it/news/asseverazione-superbonus-visto-conformita-cassazione-33224-2026-38790",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-25T02:00:00.000Z",
+    "fetched_at": "2026-09-25T03:25:16.811Z",
+    "summary": "Con la sentenza n. 33224/2026 la Cassazione penale richiama le disposizioni del Decreto Rilancio sui controlli del Superbonus e respinge la tesi che ammetteva l'asseverazione di lavori non ancora eseguiti. Il visto di conformità verifica la presenza delle asseverazioni, mentre al tecnico spetta…",
+    "categories": [
+      "fiscale",
+      "normativa"
+    ]
+  },
+  {
+    "id": "d2322aa12f56103c8e6f251bdef6c0f059d0ffb2",
+    "title": "Piano Casa e permesso di costruire: niente silenzio assenso senza istanza completa",
+    "link": "http://2020.lavoripubblici.it/news/piano-casa-silenzio-assenso-istanza-completa-38791",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-25T01:00:00.000Z",
+    "fetched_at": "2026-09-25T03:25:16.811Z",
+    "summary": "Il Consiglio di Stato chiarisce perché il permesso di costruire richiesto in regime derogatorio non si forma per silenzio assenso e quando, ai fini delle premialità, una pratica può considerarsi completa entro il termine fissato dalla legge",
+    "categories": [
+      "edilizia",
+      "normativa"
+    ]
+  },
+  {
+    "id": "a1295ee235c9172fc38a43f545d214bfe3cccbbe",
+    "title": "Gare telematiche: quando il mancato invio dell’offerta esclude la rimessione in termini",
+    "link": "http://2020.lavoripubblici.it/news/gara-telematica-rimessione-termini-mancato-invio-38793",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-25T00:30:00.000Z",
+    "fetched_at": "2026-09-25T03:25:16.811Z",
+    "summary": "Caricamento e validazione non bastano se manca l’invio finale: il TAR Lazio chiarisce il confine tra malfunzionamento della piattaforma, causa ignota e autoresponsabilità dell’operatore economico",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
+    "id": "13862aa5ab9b029b0d0220fa1f47425e55e79bf2",
+    "title": "Clausola sociale negli appalti: quali dati servono per il progetto di riassorbimento",
+    "link": "http://2020.lavoripubblici.it/news/clausola-sociale-dati-personale-progetto-riassorbimento-38795",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-25T00:00:00.000Z",
+    "fetched_at": "2026-09-25T03:25:16.811Z",
+    "summary": "Con la Delibera n. 330/2026 ANAC chiarisce il rapporto tra informazioni sul personale uscente e contenuto del progetto di riassorbimento, soffermandosi anche su privacy, autonomia organizzativa dell’impresa, asimmetrie informative e proroga dei termini di gara",
+    "categories": [
+      "edilizia"
+    ]
+  },
+  {
+    "id": "80bf4834ef5bdfc2452ebc0db2c732f3cf289b54",
+    "title": "Certificazione BIM scaduta: quando il requisito resta nel gruppo di lavoro",
+    "link": "http://2020.lavoripubblici.it/news/certificazione-bim-gruppo-lavoro-esclusione-38789",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-24T23:00:00.000Z",
+    "fetched_at": "2026-09-25T03:25:16.811Z",
+    "summary": "Il TAR Lombardia chiarisce quando la scadenza della certificazione di un professionista non comporta l’esclusione, se il requisito è già presente nel gruppo di lavoro e non si modifica l’offerta tecnica.",
+    "categories": [
+      "normativa"
+    ]
+  },
+  {
+    "id": "456f76235bf6cf7e1b118f9acc0189e7c2685d1f",
+    "title": "Riforma delle professioni, gli ingegneri temono un vuoto di responsabilità",
+    "link": "http://2020.lavoripubblici.it/news/riforma-professioni-responsabilita-competenze-38794",
+    "source": "Lavori Pubblici",
+    "source_slug": "lavoripubblici",
+    "published_at": "2026-09-24T22:00:00.000Z",
+    "fetched_at": "2026-09-25T03:25:16.811Z",
+    "summary": "Al 70° Congresso Nazionale degli Ingegneri il CNI richiama l’attenzione su competenze, responsabilità e prescrizione. Cappiello: «Bisogna trovare un meccanismo che tuteli il cittadino e il professionista».",
+    "categories": [
+      "altro"
+    ]
+  },
+  {
     "id": "83958b25819f2feeb80a0cbbbe1e580c81f8639d",
     "title": "Sicurezza sul lavoro, niente rateizzazione per la somma che estingue la contravvenzione",
     "link": "https://biblus.acca.it/notizie/sicurezza-sul-lavoro-niente-rateizzazione-per-la-somma-che-estingue-la-contravvenzione/",
